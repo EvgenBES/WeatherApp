@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather_kt</string>
+    <string name="weather">Weather</string>
+    <string name="settings">Settings</string>
+</resources>

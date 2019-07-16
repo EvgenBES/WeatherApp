@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="unitSystemValues">
+        <item>MINSK</item>
+        <item>BREST</item>
+        <item>GRODNO</item>
+        <item>GOMEL</item>
+        <item>VITEBSC</item>
+        <item>MOGILEV</item>
+        <item>BOBRUISK</item>
+        <item>BARANOVICH</item>
+        <item>NOVOPOLODSK</item>
+        <item>PINSK</item>
+        <item>BORISOV</item>
+    </string-array>
+
+    <string-array name="unitSystemEntries">
+        <item>Минск</item>
+        <item>Брест</item>
+        <item>Гродно</item>
+        <item>Гомель</item>
+        <item>Витебск</item>
+        <item>Могилёв</item>
+        <item>Бобруйск</item>
+        <item>Барановичи</item>
+        <item>Новополоцк</item>
+        <item>Пинск</item>
+        <item>Борисов</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+            android:title="Weather Location">
+        <ListPreference
+                android:key="CUSTOM_LOCATION"
+                android:title="Место нахождения:"
+                android:summary="%s"
+                android:defaultValue="MINSK"
+                android:entries="@array/unitSystemEntries"
+                android:entryValues="@array/unitSystemValues"/>
+    </PreferenceCategory>
+</PreferenceScreen>
